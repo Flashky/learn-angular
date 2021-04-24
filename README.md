@@ -12,7 +12,7 @@ sudo apt install npm
 Install Angular CLI:
 
 ```
-npm install -g @angular/cli
+sudo npm install -g @angular/cli
 ```
 
 Creating an Angular project:
