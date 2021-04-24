@@ -14,7 +14,7 @@ Install Angular CLI using the ``npm```package manager:
 sudo npm install -g @angular/cli
 ```
 
-Create a new Angular project:
+Create a new Angular project (select 'yes' for all the options):
 
 ```
 ng new myProject
