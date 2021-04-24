@@ -8,7 +8,7 @@ Install ``npm`` package manager:
 sudo apt install npm
 ```
 
-Install Angular CLI using the ``npm```package manager:
+Install Angular CLI using the ``npm`` package manager:
 
 ```
 sudo npm install -g @angular/cli
